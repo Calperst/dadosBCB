@@ -17,3 +17,5 @@ Imports:
     tibble,
     tidyr,
     writexl
+URL: https://github.com/Calperst/dadosBCB
+BugReports: https://github.com/Calperst/dadosBCB/issues
