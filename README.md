@@ -13,7 +13,7 @@ The goal of dadosBCB is to …
 You can install the development version of dadosBCB like so:
 
 ``` r
-# remotes::install_github("gutoalperstedt/dadosBCB")
+# remotes::install_github("Calperst/dadosBCB")
 ```
 
 ## Example
